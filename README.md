@@ -6,7 +6,7 @@ An untethered, gesture-controlled robotic vehicle that translates physical hand 
 
 ## 📸 Project Showcase
 
-(./<img width="900" height="800" alt="Overview of project 1" src="https://github.com/user-attachments/assets/f761ed90-eef5-4f64-8941-0260e87ee9bc" />)
+(./<img width="500" height="400" alt="Overview of project 1" src="https://github.com/user-attachments/assets/f761ed90-eef5-4f64-8941-0260e87ee9bc" />)
 
 *Figure 1: Wireless gesture-controlled robot chassis and transmitter assembly.*
 
